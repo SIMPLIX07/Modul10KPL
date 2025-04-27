@@ -34,3 +34,4 @@ C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul 10\WebApplication1\obj\Debug\net
 C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul 10\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul 10\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul 10\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul 10\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
